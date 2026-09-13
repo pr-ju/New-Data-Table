@@ -378,7 +378,3 @@ display(table);
 - The profile tooltip is appended to `document.body`.
 - A new tooltip element is created for each `NDTable` instance.
 - Row numbers shown in the table are one-based source indices and therefore retain source-row identity after sorting or filtering.
-
-## License
-
-Add the license selected for the repository here, for example MIT, BSD-3-Clause, or another license appropriate for the project.
